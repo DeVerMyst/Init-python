@@ -21,3 +21,8 @@ Freeze des versions
 ```bash
 pip freeze > requirements.txt
 ```
+
+Install du `requirements.txt`
+```bash
+pip install -r requirements.txt
+```
